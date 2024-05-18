@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Youtuve
 - 🤔 I’m looking for help with Cyber Security
 - 💬 Ask me about Python, Blender or any tech related work
-- 📫 How to reach me: On X @AryanAwtar
+- 📫 How to reach me: On [X](https://x.com/Aryanawtar), [LinkedIn](https://www.linkedin.com/in/aryan-raj-39a8b61b1/), [Instagram](https://www.instagram.com/aryanraj.1612)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I watch anime everyday
