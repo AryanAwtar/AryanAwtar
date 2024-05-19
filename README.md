@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I watch anime everyday
 
-![AryanAwtar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanAwtar&theme=vue-dark&hide_border=true)
+[AryanAwtar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanAwtar&theme=vue-dark&hide_border=true)
