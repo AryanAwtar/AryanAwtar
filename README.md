@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aryanawtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanawtar" height="30" width="40" /></a>
+<a href="https://x.com/aryanawtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanawtar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryan-raj1612s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-raj1612s" height="30" width="40" /></a>
 <a href="https://instagram.com/aryanraj.1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanraj.1612" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/aryanshankar302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aryanshankar302" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aryanshankar302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aryanshankar302/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/aryanshankar302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aryanshankar302" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/aryanshankar302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aryanshankar302/" height="30" width="40" /></a>
 <a href="https://discord.gg/aryan160302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aryan160302" height="30" width="40" /></a>
 </p>
 
