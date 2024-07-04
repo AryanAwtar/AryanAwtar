@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on Practice Projects
   
-- 🌱 I’m currently learning Frontend, C++
+- 🌱 I’m currently learning Backend, C++
   
 - 🤔 I’m looking for help with Cyber Security
   
-- 💬 Ask me about Python, Blender or any tech related work
+- 💬 Ask me about Python, Blender, Node js or any tech related work
 
 - 📫 How to reach me [mail](aryanshankar302+git@outlook.com)
 
-- ⚡ Fun fact **I watch anime**
+- ⚡ Fun fact I watch anime
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
