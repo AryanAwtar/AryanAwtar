@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Practice Projects
   
-- 🌱 I’m currently learning Linux, App Dev
+- 🌱 I’m currently learning Linux, BlockChain
   
 - 🤔 I’m looking for help with Cyber Security
   
